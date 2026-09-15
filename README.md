@@ -1,10 +1,10 @@
 <div align="center">
 
-# Roberto Pizarro Díaz
+# Roberto Pizarro Díaz · Shinguken
 
 **Applied Research · Computational Systems · Responsible AI**
 
-[R4Logic](https://r4logic.lat) · [ChemRxiv](https://doi.org/10.26434/chemrxiv.15004168/v2)
+[R4Logic](https://r4logic.lat) · [ChemRxiv v2](https://doi.org/10.26434/chemrxiv.15004168/v2)
 
 </div>
 
@@ -23,7 +23,7 @@ I work on **applied AI and computational systems for high-impact domains**, comb
 ## Selected research outputs
 
 **Computational Prioritization of Chilean Papaya Compounds Against Human α-Glucosidase: A Docking and Rescoring Study**  
-Preprint · ChemRxiv · 2026 · [DOI](https://doi.org/10.26434/chemrxiv.15004168/v2)
+Preprint · ChemRxiv · 2026 · [DOI](https://doi.org/10.26434/chemrxiv.15004168/v2) · Public data/code: Codeberg (documented in the preprint)
 
 **Rendimiento Académico Universitario y Conductas Alimentarias**  
 Peer-reviewed article · *Formación Universitaria* 11(2), 57–64 · 2018 · [DOI](https://doi.org/10.4067/S0718-50062018000200057)

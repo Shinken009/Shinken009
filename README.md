@@ -26,7 +26,7 @@ I work on **applied AI and computational systems for high-impact domains**, comb
 Preprint · ChemRxiv · 2026 · [DOI](https://doi.org/10.26434/chemrxiv.15004168/v2)
 
 **Rendimiento Académico Universitario y Conductas Alimentarias**  
-*Formación Universitaria* 11(2), 57–64 · 2018 · [DOI](https://doi.org/10.4067/S0718-50062018000200057)
+Peer-reviewed article · *Formación Universitaria* 11(2), 57–64 · 2018 · [DOI](https://doi.org/10.4067/S0718-50062018000200057)
 
 **Lily Paz: Pasta de emprendedora**  
 Book chapter · Universidad Católica del Norte · 2014 · [DOI](https://doi.org/10.22199/isbn.9789562873628_1)

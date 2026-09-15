@@ -4,7 +4,7 @@
 
 **Applied Research · Computational Systems · Responsible AI**
 
-[R4Logic](https://r4logic.lat) · [ORCID](https://orcid.org/0009-0004-1087-2678) · [ChemRxiv](https://doi.org/10.26434/chemrxiv.15004168/v2)
+[R4Logic](https://r4logic.lat) · [ChemRxiv](https://doi.org/10.26434/chemrxiv.15004168/v2)
 
 </div>
 
@@ -18,12 +18,12 @@ I work on **applied AI and computational systems for high-impact domains**, comb
 
 **MinerCheck / MinerScan** — regulatory intelligence, telemetry, geospatial systems, and digital-twin applications for mining.
 
-**KANA-GP** — research on organizational rituals and institutional legitimacy in Latin America. [Repository](https://github.com/Shinken009/kana-gp-organizational-rituals)
+**KANA-GP** — theoretical research on organizational rituals and institutional legitimacy in Latin America. [Research repository](https://github.com/Shinken009/kana-gp-organizational-rituals)
 
 ## Selected research outputs
 
 **Computational Prioritization of Chilean Papaya Compounds Against Human α-Glucosidase: A Docking and Rescoring Study**  
-ChemRxiv · 2026 · [DOI](https://doi.org/10.26434/chemrxiv.15004168/v2)
+Preprint · ChemRxiv · 2026 · [DOI](https://doi.org/10.26434/chemrxiv.15004168/v2)
 
 **Rendimiento Académico Universitario y Conductas Alimentarias**  
 *Formación Universitaria* 11(2), 57–64 · 2018 · [DOI](https://doi.org/10.4067/S0718-50062018000200057)
